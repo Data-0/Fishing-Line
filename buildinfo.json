@@ -1,0 +1,9 @@
+{
+    "Name": "FishingLine",
+    "Author": "Data-0",
+    "Version": "1.0",
+    "Requires": [
+        "Mod Component"
+    ],
+    "RequiresDLC": false
+}

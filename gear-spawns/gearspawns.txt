@@ -1,0 +1,35 @@
+
+loottable=LootTableFishingDrawer
+item=GEAR_StrongFishingLine w=70
+loottable=LootTableToolChest
+item=GEAR_StrongFishingLine w=15
+loottable=LootTableToolChestDrawer
+item=GEAR_StrongFishingLine w=20
+loottable=LootCargoMaterialsA
+item=GEAR_StrongFishingLine w=100
+loottable=LootCargoMaterialsB
+item=GEAR_StrongFishingLine w=100
+loottable=LootCargoMaterialsRareB
+item=GEAR_StrongFishingLine w=100
+loottable=LootTableBackPack
+item=GEAR_StrongFishingLine w=10
+loottable=LootTableCabinet
+item=GEAR_StrongFishingLine w=10
+loottable=LootTableKitchenDrawer
+item=GEAR_StrongFishingLine w=5
+loottable=LootTableLocker
+item=GEAR_StrongFishingLine w=5
+loottable=LootTableLockerLocked
+item=GEAR_StrongFishingLine w=15
+loottable=LootTableSafeInterloper
+item=GEAR_StrongFishingLine w=20
+loottable=LootTableToolChest
+item=GEAR_StrongFishingLine w=25
+loottable=LootTableVehicleTrunk
+item=GEAR_StrongFishingLine w=10
+loottable=LootTableWorkbench
+item=GEAR_StrongFishingLine w=10
+loottable=LootTableFishingSaltWater
+item=GEAR_StrongFishingLine w=10
+loottable=LootTableFishingFreshWater
+item=GEAR_StrongFishingLine w=10
