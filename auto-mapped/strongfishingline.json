@@ -1,0 +1,46 @@
+{
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_ClothesTearing",
+    "Minutes": 20,
+    "YieldCounts": [
+      10
+    ],
+    "YieldNames": [
+      "GEAR_Line"
+    ],
+    "RequiredToolNames": []
+  },
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_FishingLine",
+    "DescriptionLocalizatonId": "GAMEPLAY_DescriptionFishingLine",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.25,
+    "DaysToDecay": 100,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_sndInvFishingBaitPickup",
+    "PutBackAudio": "Play_sndInvFishingBaitPutBack",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_sndInvFishingBaitWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  }
+}
